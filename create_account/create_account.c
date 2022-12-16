@@ -60,10 +60,10 @@ int main()
     
     fclose(password_control);
     
-    printf("%s",username1);
-    printf("%s",account.username);
-    printf("%s",password1);
-    printf("%s",account.password);
+    //printf("%s",username1);
+    //printf("%s",account.username);
+    //printf("%s",password1);
+    //printf("%s",account.password);
     
     
     username_comparing = strcmp(username1,account.username);
