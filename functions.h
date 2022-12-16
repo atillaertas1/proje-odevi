@@ -1,0 +1,4 @@
+void bosluk()
+{
+    printf("\n");
+}
