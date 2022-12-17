@@ -1,11 +1,11 @@
 #include <stdio.h>
-#include "struct.h"
-#include "functions.h"
 #include <string.h>
 #include <stdlib.h>
+#include "struct.h"
+#include "functions.h"
 
 
-int main()
+int create_account()
 {   
     char username2[50];
     char password2[50];
